@@ -1,4 +1,5 @@
 .qodo
+.vscode
 *.onnx
 *.pt
 *.torchscript
