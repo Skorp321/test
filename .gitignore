@@ -1,0 +1,6 @@
+.qodo
+*.onnx
+*.pt
+*.torchscript
+.env
+yolo11n_openvino_model
