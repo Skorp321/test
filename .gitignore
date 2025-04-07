@@ -5,3 +5,5 @@
 *.torchscript
 .env
 yolo11n_openvino_model
+yolo11n_ncnn_model
+main.py
